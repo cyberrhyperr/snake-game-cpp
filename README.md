@@ -7,7 +7,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="80" title="C++" style="margin: 0 10px">
   <img src="https://www.sfml-dev.org/images/logo.png" width="80" title="SFML" style="margin: 0 10px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Cmake.svg" width="80" title="CMake" style="margin: 0 10px">
-  <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="80" title="GitHub" style="margin: 0 10px">
 </p>
 
 
