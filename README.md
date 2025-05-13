@@ -5,7 +5,9 @@
 ## 🛠️ Built With  
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="100" title="C++">
+  
   <img src="https://www.sfml-dev.org/images/logo.png" width="100" title="SFML">
+  
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Cmake.svg" width="100" title="CMake">
 </p>
 
@@ -44,7 +46,7 @@ A classic Snake game built in **C++** using the **SFML library**, featuring:
 
 ---
 
-🎮 ## How to Play
+## 🎮 How to Play
 
 | Key       | Action         |  
 |-----------|----------------|  
@@ -55,7 +57,7 @@ A classic Snake game built in **C++** using the **SFML library**, featuring:
 
 ---
 
-📊 ## Code Structure
+## 📊 Code Structure
 ```bash
 snake-game-sfml/  
 ├── snake.cpp        # Main game logic  
@@ -70,7 +72,9 @@ Key Functions:
 
 ---
 
-📚 Resources
+## 📚 Resources
 
 SFML Documentation
 GitHub Repo
+
+
